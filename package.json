@@ -6,8 +6,8 @@
   "dependencies": {
     "gatsby": "^2.3.14",
     "graphql": "^14.2.1",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "scripts": {
     "dev": "gatsby develop --port 3000",
