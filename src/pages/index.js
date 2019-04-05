@@ -1,6 +1,6 @@
 import React from 'react'
 
-function IndexPage() {
+function IndexPage () {
   return 'Hello'
 }
 
