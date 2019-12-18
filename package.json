@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.17.10",
+    "gatsby": "^2.18.13",
     "graphql": "^14.2.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
